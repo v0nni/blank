@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: interactiveheroine/blank
+   name: test-repo
 
 media_folder: media_folder
 
